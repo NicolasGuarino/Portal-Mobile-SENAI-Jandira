@@ -1,0 +1,4 @@
+$host = 'localhost';
+$usuario = 'outsidet_root' ;
+$senha = 'bcd127';
+$banco = 'outsidet_portal_educacional';
